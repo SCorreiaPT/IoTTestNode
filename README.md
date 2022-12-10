@@ -6,3 +6,4 @@ named as µJSON. It is shown that, when considering a low-level language impleme
 proposed schema implies lower compression rates than its counterparts. An embedded test-bench platform is assembled, and several real case 
 scenarios are considered for effectiveness and validation purposes.
 
+
