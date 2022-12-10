@@ -7,3 +7,9 @@ proposed schema implies lower compression rates than its counterparts. An embedd
 scenarios are considered for effectiveness and validation purposes.
 
 <img width="553" alt="IoTTestNode" src="https://user-images.githubusercontent.com/120283720/206878762-10230b06-57ec-4fc8-83be-2456378226c6.png">
+
+Cite
+[1] S. D. Correia, R. Perez, J. Matos-Carvalho and V. R. Q. Leithardt, "µJSON, a Lightweight Compression Scheme for Embedded GNSS Data 
+Transmission on IoT Nodes," 2022 5th Conference on Cloud and Internet of Things (CIoT), 2022, pp. 232-238, doi: 10.1109/CIoT53061.2022.9766635.
+[2] R. Perez, V. R. Q. Leithardt and S. D. Correia, "Lossless Compression Scheme for Efficient GNSS Data Transmission on IoT Devices," 
+2021 International Conference on Electrical, Computer and Energy Technologies (ICECET), 2021, pp. 1-6, doi: 10.1109/ICECET52533.2021.9698642.
