@@ -2,8 +2,8 @@
  * GNSS Lossless Compression Algorithm 
  *
  * Created: 7/6/2021 12:39:59 PM
- * Authors: Rafael Perez & Sérgio Correia
- * Instituto Politécnico de Portalegre
+ * Authors: Rafael Perez & SÃ©rgio Correia
+ * Instituto PolitÃ©cnico de Portalegre
  *
  */ 
 
@@ -17,12 +17,7 @@
 /************************************************************************/
 char* ssid = "Shizde";
 char* password = "chocolate";
-//char* ssid = "NOS-71AF";
-//char* password = "ET7HK7WA";
-//char* ssid = "cidade";
-//char* password = "KanKan123";
-//char* ssid = "MEO-Glicinias";
-//char* password = "97462BE4E6";
+
 
 
 
